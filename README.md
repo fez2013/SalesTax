@@ -5,3 +5,4 @@ This is a small python program dedicated to linnworks (Ecommerce omnichannel Ser
 The program will input a date to change for the script for linnworks
 The script is based on a sql database from linnworks 
 
+# Current version is very slow on opening, when creatingit an exe file
